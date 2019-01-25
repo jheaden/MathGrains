@@ -1,2 +1,2 @@
 # MathGrains
-Simple calculator app to demonstrate Orleans functionality
+Simple calculator app to demonstrate actor model functionality
